@@ -25,13 +25,3 @@ The Molecules are components which can be created using combinations of Elements
 
 ### Organisms
 These components usually have a more specific use case. They are a section of the template. Organisms are created combining Elements and Molecules.
-
-## Instalation and usage
-To install this library, use the next command:
-```
-npm install --save git+https://git@gitlab.occ.com.mx/recluta/occ-atomic.git#master
-```
-To use its components, you just have to import them like this:
-```
-import { Button } from 'occ-atomic';
-```
