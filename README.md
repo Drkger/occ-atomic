@@ -35,9 +35,3 @@ To use its components, you just have to import them like this:
 ```
 import { Button } from 'occ-atomic';
 ```
-For more details, check how to implement each component:
-
-- [Subatomic](./docs/Subatomic.md)
-- [Elements](./docs/Elements.md)
-- [Molecules](./docs/Molecules.md)
-- [Organisms]()
