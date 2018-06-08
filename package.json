@@ -1,5 +1,5 @@
 {
-  "name": "occ-atomic",
+  "name": "@occmundial/occ-atomic",
   "version": "0.2.2",
   "description": "Componentes compartidos para Recluta 12",
   "main": "build/index.js",
